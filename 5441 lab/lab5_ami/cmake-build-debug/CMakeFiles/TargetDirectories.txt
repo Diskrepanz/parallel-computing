@@ -1,0 +1,3 @@
+/Users/shengding/Desktop/5441 lab/lab5_ami/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shengding/Desktop/5441 lab/lab5_ami/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shengding/Desktop/5441 lab/lab5_ami/cmake-build-debug/CMakeFiles/lab5_ami.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab_2.dir/Sheng_Ding_disposable.c.o CMakeFiles/lab_2.dir/Sheng_Ding_persistent.c.o  -o lab_2 

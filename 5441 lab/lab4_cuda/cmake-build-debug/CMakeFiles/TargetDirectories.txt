@@ -1,0 +1,3 @@
+/Users/shengding/Desktop/5441 lab/lab4_cuda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shengding/Desktop/5441 lab/lab4_cuda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shengding/Desktop/5441 lab/lab4_cuda/cmake-build-debug/CMakeFiles/lab4_cuda.dir

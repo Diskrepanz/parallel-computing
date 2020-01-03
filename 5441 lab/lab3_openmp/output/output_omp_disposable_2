@@ -1,0 +1,10 @@
+
+*******************************************************************
+Threads requested: 2; Threads created: 2.
+Dissipation converged in 691853 iterations.
+With max DSV = 0.085123 and min DSV = 0.082570.
+Affect rate = 0.020000; Epsilon: 0.030000.
+Elapsed convergence loop time (clock) : 787410000.
+Elapsed convergence loop time (time) : 394.
+Elapsed convergence loop time (chrono) : 393721.781250.
+*******************************************************************
